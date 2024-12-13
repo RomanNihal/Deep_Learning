@@ -39,7 +39,7 @@ Deep learning is a challenging yet rewarding field, and this repository serves a
 ## Future Goals  
 - Gain expertise in advanced architectures like GANs and transformers.  
 - Work with large-scale datasets and deploy models in production.  
-- Explore reinforcement learning and its applications.  
+- Explore reinforcement learning and its applications. 
 
 ## Connect with Me  
 I’m always eager to connect with like-minded individuals. Feel free to share suggestions, resources, or feedback!  
