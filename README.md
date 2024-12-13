@@ -1,4 +1,4 @@
-# Deep Learning Journey  
+# Deep Learning Journey
 
 Welcome to my Deep Learning repository! 🌟  
 
